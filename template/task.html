@@ -1,0 +1,8 @@
+<textarea id="task_list_template" style="display:none" >
+    <ul>
+        {#foreach $T as record}
+         <li>{$T.record.title} --{$T.record.user}</li>
+        {#/for}
+    </ul>
+    
+</textarea>
