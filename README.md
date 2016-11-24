@@ -1,4 +1,4 @@
 # Jquery-MVC
-That use route and requirejs and jtempaltes  with jquery 
+The Jquery Framework use Route and Requirejs and Jtempaltes plugs
 
-this is mvc framework whit jquery .
+this is mvc framework use jquery .
